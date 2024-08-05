@@ -4,3 +4,5 @@ I'm a Google Developer Expert (GDE) in Android, an Android developer at Plaid an
 Have a look at my portfolio https://jeroenmols.com
 
 ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeroenmols&show_icons=true&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeroenmols)](https://github.com/ryo-ma/github-profile-trophy)
